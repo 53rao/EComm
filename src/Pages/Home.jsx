@@ -37,7 +37,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="h-[30vh] w-full bg-gray-800 text-white flex flex-col justify-center items-center px-4 ">
+        <div className="h-auto w-full bg-gray-800 text-white flex flex-col justify-center items-center px-4 overflow-hidden py-2 ">
           <div className="flex flex-nowrap items-center justify-center text-center gap-10 font-Primary">
             <div className="w-1/3 text-2xl sm:text-3xl font-light tracking-widest">
               Grand Opening
@@ -65,14 +65,14 @@ function Home() {
           <div className="ad h- w-full sm:px-2 justify-center items-center  mx-auto flex flex-wrap ">
             <div className="imageholder w-full  h-80 sm:h-100 sm:w-1/2 sm:pr-2 ">
               <img
-                src="Hero/8.png"
+                src="Hero/10.png"
                 alt=""
                 className="object-cover w-full h-full "
               />
             </div>
             <div className="imageholder w-full h-80 sm:h-100  sm:w-1/2 ">
               <img
-                src="Hero/7.png"
+                src="Hero/9.png"
                 alt=""
                 className="object-cover w-full h-full "
               />
@@ -119,7 +119,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="h-[30vh] w-full bg-green-500 text-white flex flex-col justify-center items-center px-4 ">
+        <div className="h-auto w-full bg-green-500 text-white flex flex-col justify-center items-center px-4 overflow-hidden py-2 ">
           <div className="flex flex-nowrap items-center justify-center text-center  font-Primary">
             <div className="w-1/3 text-2xl sm:text-3xl font-light tracking-widest">
               ShoeMe Collection
